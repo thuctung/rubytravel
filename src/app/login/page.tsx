@@ -1,6 +1,10 @@
 import LoginPage from "@/features/login";
 
-export default function () {
+const Login = () => {
 
-    return <LoginPage/>
+    return <div className="login-wrapper">
+        <LoginPage/>
+    </div>
 }
+
+export default Login
