@@ -1,0 +1,17 @@
+.wrapper-hotline {
+    width: 50%;
+    position: relative;
+}
+
+.wrapper-hotline::after {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-left: 35px solid transparent;
+    border-right:35px solid transparent;
+    border-bottom: 42px solid oklch(0.577 0.245 27.325);
+    right: -34px;
+    top:-2px
+}
