@@ -1,0 +1,9 @@
+.banner-wrapper .banner-item img {
+  max-height: 619px;
+  object-fit: cover;
+}
+
+.banner-wrapper .btn-pre {
+  left: unset;
+  right: calc(var(--spacing) * 10) !important;
+}

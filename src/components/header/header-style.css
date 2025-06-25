@@ -1,0 +1,9 @@
+.wrapper-menu .menu-item:not(:first-child)::after{
+   content: "";
+    position: absolute;
+    top: 4px;
+    left: -15px;
+    width: 1px;
+    height: 16px;
+    border-right: 1px solid rgba(0,0,0,.1);
+}

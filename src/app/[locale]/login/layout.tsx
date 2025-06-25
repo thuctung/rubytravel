@@ -1,9 +1,9 @@
-import '@/app/globals.css'
+import '@/app/globals.css';
 
 export default function LoginLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-         <head>
+      <head>
         <link rel="icon" href="/favicon.png" />
       </head>
       <body>

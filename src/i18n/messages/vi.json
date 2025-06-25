@@ -1,0 +1,22 @@
+{
+  "HomePage": {
+    "title": "Xin chào",
+    "about": "DMM"
+  },
+  "header": {
+    "home": "Trang chủ",
+    "ticket": "Vé tham quan",
+    "hotel": "Khách sạn",
+    "airboadTicket": "Vé máy bay",
+    "spa": "Spa Massage",
+    "driver": "Đặt xe",
+     "joinTeam":"Tro thanh dai ly",
+    "review":"Y kien dong gop"
+  },
+  "language":{
+    "vi":"Viet Nam",
+    "ko":"Han Quoc",
+    "en":"Tieng Anh",
+    "cn":"Trung Quoc"
+  }
+}
